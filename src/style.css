@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.border-img{
+    border: 5px solid silver;
+    border-radius: 49% 49% 0 0;
+    padding: 2px;
+}
